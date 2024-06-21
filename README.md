@@ -1,1 +1,1 @@
-# -distance-detection-sensor
+# distance-detection-sensor
